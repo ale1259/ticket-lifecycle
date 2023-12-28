@@ -52,35 +52,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - As we can see the prioriy and whothe ticket is assigned to change
  <img src="https://i.imgur.com/qxwT0pe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-- Go and do the same with the ticket that says "Laptops are slow" but this time assigned it to "John Doe" with the priority "High", "the Support Department" and the SLA Plan "SEV-B(4 hours, 24/7)" 
+- Go and do the same with the ticket that says "Laptops are slow" but this time assigned it to "John Doe" with the priority "High", the "Support Department" and the SLA Plan "SEV-B(4 hours, 24/7)". You can write down before posting to point out any information you want to say. 
   
- <img src="https://i.imgur.com/ZeOLW9Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+ <img src="https://i.imgur.com/ZeOLW9Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ - Let's solve a ticket that was assigned to "John Doe". We log out and log in as John this time with the username of course john in this case and as we can see he can see only the ticket was assigned to him.
+  <img src="https://i.imgur.com/lB89mYt.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+ - Click on the ticket and see what the problem is. After the issue has been resolved you can post something like how you figured it out so you can document for future tickets. To close the ticket simply click on ticket status check resolved and Post Reply. And that's it.
+  <img src="https://i.imgur.com/TQsF3YU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
 
 
  
 
 
-
-<p>
-<img src="https://i.imgur.com/ZeOLW9Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
