@@ -19,7 +19,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- First let's get into the End-user portal to create some tickets: http://localhost/osTicket/
+- Intake
+- Assignment and Communication
+- Working the Issue
+- Resolution
+   
+
+
+ - First let's get into the End-user portal to create some tickets: http://localhost/osTicket/
 <img src="https://i.imgur.com/Jj3C8LM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
 -  To introduce a new ticket in our ticketying system we click on Open New Ticket, then in the new window we introduce the Email Address and Full Name of the user is submiting the ticket with the Help Topic of the ticket in this case we're going to use "Business Critical Outage"
@@ -39,22 +46,23 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Now we set the priority, what Department and Agent is assigned to and the SLA Plan 
  <img src="https://i.imgur.com/90falhH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-- In this case we set the priority as an Emergency, the assigned it to "Jane Doe" and to the "Systems Administrators" Department with the SLA Plan SEV-A(1 hour, 24/7)
+- In this case we set the priority as an "Emergency", the assigned it to "Jane Doe" and to the "Systems Administrators" Department with the SLA Plan "SEV-A(1 hour, 24/7)"
  <img src="https://i.imgur.com/3OFTqbE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+- As we can see the prioriy and whothe ticket is assigned to change
+ <img src="https://i.imgur.com/qxwT0pe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+- Go and do the same with the ticket that says "Laptops are slow" but this time assigned it to "John Doe" with the priority "High", "the Support Department" and the SLA Plan "SEV-B(4 hours, 24/7)" 
+  
+ <img src="https://i.imgur.com/ZeOLW9Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 
 
  
 
 
-- Working the Issue
-
-
-- Resolution
-
-<h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/3OFTqbE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZeOLW9Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
